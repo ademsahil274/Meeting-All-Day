@@ -31,4 +31,4 @@ The following screenshot demonstrates the application functionality:
 ![](./Schedule.PNG)
 
 Please click this link to see the project
-Clicking [this link](git@github.com:ademsahil274/Meeting-All-Day.git)
+Clicking [this link] (https://ademsahil274.github.io/Meeting-All-Day/)
