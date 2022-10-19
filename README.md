@@ -28,6 +28,7 @@ THEN the saved events persist <br>
 
 # Mock-Up
 The following screenshot demonstrates the application functionality:
-
+![05-third-party-apis-homework-demo.gif]()
 
 Please click this link to see the project
+Clicking [this link]()
